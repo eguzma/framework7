@@ -1,0 +1,45 @@
+
+
+.p0{
+	padding: 0 !important;
+}
+
+.m0{
+	margin: 0 !important;
+}
+
+.cafetano h4{
+	font-size: 20px;
+	margin: 2px 0;
+}
+
+.cafetano i{
+	color: #fed430;
+	font-size: 12px;
+}
+
+.cafetano .color-gray{
+	color: #787878;
+}
+
+.cafetano .lugar{
+	font-size: 16px;
+	font-weight: 700;
+	color: #272727;
+}
+
+.cafetano .horario{
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+.cafetano .divider{
+	border-top: 1px solid #eee;
+	padding: 10px 0px;
+}
+
+.cafetano .card-footer a{
+	color: #6200ee;
+	text-transform: uppercase;
+	font-weight: 600;
+}
